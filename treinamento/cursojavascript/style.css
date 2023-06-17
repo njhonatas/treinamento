@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+}
+
+form{
+    text-align: center;
+}
+button{
+    border-radius: 50px;
+    background-color:black ;
+}
+
+iframe{
+    margin: 0 auto;
+    width: 560px;
+    height: 315px;
+    display: flex;
+}
+ p{
+    text-align: center;
+}
+a{
+    color: whitesmoke;
+}
+
+
